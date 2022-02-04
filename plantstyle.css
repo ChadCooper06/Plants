@@ -26,6 +26,10 @@ article {
     display: block;
 }
 
+img {
+    size: 50%;
+}
+
 h2 {
     color:#19231a;
     font-family: Arial, sans-serif;
