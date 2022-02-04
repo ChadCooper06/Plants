@@ -1,0 +1,58 @@
+html {
+    background-color: #32a79c;
+}
+
+body {
+    background-color: rgba(25, 151, 85, 0.75);
+    padding-left: 1%
+}
+/*hopefully everything below this works how I want*/
+h1 {
+    font-size: 40px;
+    font-weight: 200;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    color: #d7ff02;
+}
+
+p {
+    color: #19231a;
+    font-family: Arial, sans-serif;
+    font-size: normal;
+}
+
+article {
+    display: block;
+}
+
+h2 {
+    color:#19231a;
+    font-family: Arial, sans-serif;
+}
+
+h4 {
+    color: #d7ff02;
+    font-family: Helvetica, sans-serif;
+}
+
+h3 {
+    color: #19231a;
+    font-family: Helvetica, sans-serif;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+}
+
+aside {
+    display: inline-flexbox;
+    
+}
+
+footer {
+    font-family: Arial, sans-serif;
+    color:#19231a;
+}
+
